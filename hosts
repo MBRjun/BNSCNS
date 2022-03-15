@@ -6,3 +6,10 @@
 # BNSCNS hosts-file syntax
 # 
 0.0.0.0 2345.com
+0.0.0.0 dhrest.2345.com
+0.0.0.0 union2.50bang.org
+0.0.0.0 feeds.2345.com
+0.0.0.0 trrs.2345.com
+0.0.0.0 feeds-api.2345.com
+0.0.0.0 2345cdn.net
+0.0.0.0 guess.union2.50bang.org
