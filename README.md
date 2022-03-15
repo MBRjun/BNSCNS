@@ -6,7 +6,7 @@ _______  _______  _______  ______  _______  _______
 |______/|__|____||_______||______\ |__|____||_______|  
 ```
 A DNS blocklist to block junk software in China  
-一个用于屏蔽中国部分流氓软件、后门、自动挖矿的 DNS 屏蔽清单
+一个 DNS 屏蔽清单，能屏蔽流氓软件、跟踪器、后门、自动更新的域名
 
 ---
 Supports ``hosts``, ``AdGuard Home``, ``dnsmasq``syntax.  
