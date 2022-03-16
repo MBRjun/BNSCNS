@@ -11,3 +11,6 @@ A DNS blocklist to block junk software in China
 ---
 Supports ``hosts``, ``AdGuard Home``, ``dnsmasq``, ``Clash`` syntax.  
 支持 ``hosts``、``AdGuard Home``、``dnsmasq``、``Clash`` 语法。
+
+## 使用教程 / How to use
+[AdGuard Home](/pages/adgh.md)
