@@ -13,4 +13,5 @@ Supports ``hosts``, ``AdGuard Home``, ``dnsmasq``, ``Clash`` syntax. [Compatibil
 支持 ``hosts``、``AdGuard Home``、``dnsmasq``、``Clash`` 语法。[兼容性列表](/pages/compatibility.md)
 
 ## 使用教程 / How to use
-[AdGuard Home](/pages/adgh.md)
+AdGuard Home: [见该教程](/pages/adgh.md)  
+Clash: 将[该文件](/rules/clash)添加至配置文件的``rule``部分  
