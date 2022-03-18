@@ -5,8 +5,8 @@ _______  _______  _______  ______  _______  _______
 |   __< |   \   ||__     || |___  |       ||__     |  
 |______/|__|____||_______||______\|__|____||_______|  
 ```
-A DNS blocklist to block junk software in China  
-一个 DNS 屏蔽清单，能屏蔽流氓软件、跟踪器、后门、自动更新的域名
+A DNS blocklist to block malware, junk software, trackers, backdoors in China  
+一个 DNS 屏蔽清单，能屏蔽流氓软件、跟踪器、后门域名
 
 ---
 Supports ``hosts``, ``AdGuard Home``, ``dnsmasq``, ``Clash`` syntax. [Compatibility List](/pages/compatibility.md)  
