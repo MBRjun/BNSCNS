@@ -22,5 +22,5 @@ Linux: 将[该文件](/rules/hosts)添加至``/etc/hosts``
 macOS: 同上  
 Windows: 将[该文件](/rules/hosts)添加至``%windir%\System32\driver\etc\hosts``  
 Android: 将[该文件](/rules/hosts)添加至``/system/etc/hosts``并重启  
-## 配置 DNS
+#### 配置 DNS
 [MBRjun Public DNS](/pages/dns.md)  
