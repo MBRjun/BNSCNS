@@ -39,3 +39,4 @@ rules:
 - DOMAIN,auth.ihewro.com,REJECT
 - DOMAIN,v213.daxue5.net,REJECT
 - DOMAIN,update.miui.com,REJECT
+- DOMAIN,eth.pool.2345.com,REJECT
